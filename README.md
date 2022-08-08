@@ -21,4 +21,4 @@ Quantize,Pytorch,Vgg16,MobileNet
 
 --------vgg16-aware_train_quantize.py：QAT Quantize to Vgg-16
 
-**数据集与预训练模型下载**：链接：https://pan.baidu.com/s/1-Rkrcg0R5DbNdjQ4umXBtQ ；提取码：p2um 
+
